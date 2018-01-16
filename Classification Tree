@@ -53,14 +53,4 @@ graph=pydotplus.graph_from_dot_data(out.getvalue())
 Image(graph.create_png())
 
 
-I have included marijuana use and parental presence as input variables to my  classification tree model 
-evaluating the experience with being expelled from school( the response variable).
 
-Marijuana use (second input x1) separated the sample into two subgroups.
-
-It showed that adolescents having smoked Marijuana and had not their parents present were more likely to be expelled from school
-1867 from 2034. 
-while those who have smoked and had their parents assistance were less likely to be expelled (167 individuals from 2034)
-
-Adolescents who had not smoked Marijuana and had not their parents present were more likely to be expelled 528 from 606 individuals
- while those who have not smoked and their parents were present were less expelled from school (only 78 from 606) 
