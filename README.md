@@ -21,5 +21,10 @@ This plot shows the decrease of the average distance of the observations from th
 The elbow curve suggests that the 2, 3 and 6-cluster solutions might be interpreted. The results below are for an interpretation of the 3-cluster solution.
 Canonical discriminant analyses was used to reduce the 11 clustering variable down a few variables that accounted for most of the variance in the clustering variables. 
 
+![w2](https://user-images.githubusercontent.com/18068773/37517200-e7ae3106-2910-11e8-9f6a-438a7e3b4c7e.png)
+
+A scatterplot of the first two canonical variables by cluster indicated that the observations in clusters in dark green  and purple were densely packed with relatively low within cluster variance, and did not overlap very much with the yellow cluster. Cluster Yellow was generally distinct, and the observations had less spread suggesting low within cluster variance.  The results of this plot suggest that the best cluster solution may have been 2 , so it will be especially important to also evaluate the 2 cluster solution.
+
+
 
 
