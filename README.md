@@ -15,4 +15,6 @@ The variance in the clustering variables that was accounted for by the clusters 
 was plotted for each of the seven cluster solutions in an elbow curve to provide guidance for choosing the number of clusters 
 to interpret.
 
+![w1](https://user-images.githubusercontent.com/18068773/37516930-1e5e1172-2910-11e8-9275-882025d67050.png)
+
 
