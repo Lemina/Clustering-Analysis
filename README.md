@@ -15,4 +15,4 @@ The variance in the clustering variables that was accounted for by the clusters 
 was plotted for each of the seven cluster solutions in an elbow curve to provide guidance for choosing the number of clusters 
 to interpret.
 
-![alt text](http:///home/lemina/w1.png)
+
