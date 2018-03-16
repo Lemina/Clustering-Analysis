@@ -17,4 +17,9 @@ to interpret.
 
 ![w1](https://user-images.githubusercontent.com/18068773/37516930-1e5e1172-2910-11e8-9275-882025d67050.png)
 
+This plot shows the decrease of the average distance of the observations from the cluster centroids as the number of clusters increases. 
+The elbow curve suggests that the 2, 3 and 6-cluster solutions might be interpreted. The results below are for an interpretation of the 3-cluster solution.
+Canonical discriminant analyses was used to reduce the 11 clustering variable down a few variables that accounted for most of the variance in the clustering variables. 
+
+
 
