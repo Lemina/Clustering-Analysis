@@ -35,7 +35,7 @@ Cluster 1 include adolescents who had more used Alcohol but tend to fall in betw
 
 We can see that adolescents in cluster 2 have the highest Deviant behavior while those in cluster 0, the least troubled group, have the lowest deviant behavior, adolescents in cluster 1 fall in between.  
 
-
+![w5](https://user-images.githubusercontent.com/18068773/37517464-d20cc578-2911-11e8-89d6-fbcef79318a7.png)
 
 In order to externally validate the clusters, an Analysis of Variance (ANOVA) was conducted to test for significant differences between the clusters on Deviant behavior. A tukey test was used for post hoc comparisons between the clusters.  The tukey post hoc comparisons showed significant differences between clusters on DEVIANT, with the exception that clusters 0 and 1 were close to each other. Adolescents in cluster 2 had the highest Deviant (mean=5.69, sd=4.84)
 
