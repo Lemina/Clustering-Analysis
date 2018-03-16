@@ -31,6 +31,14 @@ The means on the clustering variables shows that compared to other clusters,  cl
 Cluster 2 includes the adolescents who had highly used alcohol and marijuana, experienced more alcohol problems, and violent behavior, they appear also to have higher levels of depression, lower self-esteem and school achievement  as well as the lowest levels of school and family connectedness , parents presence and activity.
 Cluster 1 include adolescents who had more used Alcohol but tend to fall in between the two other clusters in the use of Marijuana,  having alcohol problems, engaging in violence, depression, self-esteem, school and family connectedness, parents activity and GPA, with the exception of having higher parental involvement in activities. 
 
+![w1](https://user-images.githubusercontent.com/18068773/37517359-748182f4-2911-11e8-9db9-6d22aa468156.png)
+
+We can see that adolescents in cluster 2 have the highest Deviant behavior while those in cluster 0, the least troubled group, have the lowest deviant behavior, adolescents in cluster 1 fall in between.  
+
+
+
+In order to externally validate the clusters, an Analysis of Variance (ANOVA) was conducted to test for significant differences between the clusters on Deviant behavior. A tukey test was used for post hoc comparisons between the clusters.  The tukey post hoc comparisons showed significant differences between clusters on DEVIANT, with the exception that clusters 0 and 1 were close to each other. Adolescents in cluster 2 had the highest Deviant (mean=5.69, sd=4.84)
+
 
 
 
